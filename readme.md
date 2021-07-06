@@ -13,7 +13,7 @@ Go to Music discs:v1.0 in minetest forums and either use the github link and dow
 https://forum.minetest.net/viewtopic.php?f=9&t=25431<br>
 https://github.com/Minetest-j45/music_discs/<br>
 <br>
----Version---
+---Version---<br>
 v1.0
 <br>
 ---Special thanks---
